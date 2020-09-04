@@ -1,8 +1,7 @@
-package com.sparta.cm;
+package com.sparta.cm.dto;
 
 import com.sparta.cm.employees.Employee;
-import com.sparta.cm.utility.FileIOManager;
-import com.sparta.cm.utility.Printer;
+import com.sparta.cm.dto.FileIOManager;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -24,13 +23,6 @@ public class CSVManager {
         converted = converted/1000000;
         if(print == true){
             System.out.println("Completed in: " + converted + " milliseconds.");
-            /*int count = 0;
-            for(Employee e: employees){
-            if (count <= 5) {
-                Printer.printEmployee(e);
-            }
-            count++;
-            }*/
         }
         return converted;
     }

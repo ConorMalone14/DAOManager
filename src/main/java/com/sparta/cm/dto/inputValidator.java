@@ -1,4 +1,4 @@
-package com.sparta.cm.employees;
+package com.sparta.cm.dto;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeParseException;
@@ -23,7 +23,7 @@ public class inputValidator {
 
     public static boolean isEmailValid(String[] input) {
         String email = input[6];
-        Pattern p = Pattern.compile("^[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,6}$", Pattern.CASE_INSENSITIVE);
+        Pattern p = Pattern.compile("^[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z.]{2,6}$", Pattern.CASE_INSENSITIVE);
         Matcher m = p.matcher(email);
         if(m.find()){
             return true;

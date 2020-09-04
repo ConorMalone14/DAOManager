@@ -1,0 +1,250 @@
+2020-09-04 16:40:32,260 INFO c.s.c.d.FileIOManager [main] Number of Unverified Employees: 57
+2020-09-04 16:40:32,262 INFO c.s.c.d.FileIOManager [main] Number of Verified Employees: 9943
+2020-09-04 16:40:32,262 INFO c.s.c.d.FileIOManager [main] CSV process Completed in: 97.5471 milliseconds.
+2020-09-04 16:40:32,675 TRACE c.s.c.d.RunnableDAO [pool-2-thread-2] Successfully added
+2020-09-04 16:40:41,675 TRACE c.s.c.d.RunnableDAO [pool-2-thread-16] Successfully added
+2020-09-04 16:40:42,468 TRACE c.s.c.d.RunnableDAO [pool-2-thread-1] Successfully added
+2020-09-04 16:40:42,975 TRACE c.s.c.d.RunnableDAO [pool-2-thread-20] Successfully added
+2020-09-04 16:40:43,072 TRACE c.s.c.d.RunnableDAO [pool-2-thread-7] Successfully added
+2020-09-04 16:40:43,078 TRACE c.s.c.d.RunnableDAO [pool-2-thread-17] Successfully added
+2020-09-04 16:40:43,133 TRACE c.s.c.d.RunnableDAO [pool-2-thread-6] Successfully added
+2020-09-04 16:40:43,177 TRACE c.s.c.d.RunnableDAO [pool-2-thread-9] Successfully added
+2020-09-04 16:40:43,242 TRACE c.s.c.d.RunnableDAO [pool-2-thread-11] Successfully added
+2020-09-04 16:40:43,489 TRACE c.s.c.d.RunnableDAO [pool-2-thread-8] Successfully added
+2020-09-04 16:40:43,513 TRACE c.s.c.d.RunnableDAO [pool-2-thread-25] Successfully added
+2020-09-04 16:40:43,592 TRACE c.s.c.d.RunnableDAO [pool-2-thread-21] Successfully added
+2020-09-04 16:40:43,612 TRACE c.s.c.d.RunnableDAO [pool-2-thread-10] Successfully added
+2020-09-04 16:40:43,650 TRACE c.s.c.d.RunnableDAO [pool-2-thread-23] Successfully added
+2020-09-04 16:40:43,774 TRACE c.s.c.d.RunnableDAO [pool-2-thread-13] Successfully added
+2020-09-04 16:40:43,818 TRACE c.s.c.d.RunnableDAO [pool-2-thread-22] Successfully added
+2020-09-04 16:40:43,862 TRACE c.s.c.d.RunnableDAO [pool-2-thread-3] Successfully added
+2020-09-04 16:40:43,895 TRACE c.s.c.d.RunnableDAO [pool-2-thread-19] Successfully added
+2020-09-04 16:40:43,924 TRACE c.s.c.d.RunnableDAO [pool-2-thread-14] Successfully added
+2020-09-04 16:40:43,943 TRACE c.s.c.d.RunnableDAO [pool-2-thread-24] Successfully added
+2020-09-04 16:40:44,009 TRACE c.s.c.d.RunnableDAO [pool-2-thread-15] Successfully added
+2020-09-04 16:40:44,015 TRACE c.s.c.d.RunnableDAO [pool-2-thread-5] Successfully added
+2020-09-04 16:40:44,035 TRACE c.s.c.d.RunnableDAO [pool-2-thread-4] Successfully added
+2020-09-04 16:40:44,048 TRACE c.s.c.d.RunnableDAO [pool-2-thread-12] Successfully added
+2020-09-04 16:40:44,050 TRACE c.s.c.d.RunnableDAO [pool-2-thread-18] Successfully added
+2020-09-04 16:40:44,058 INFO c.s.c.d.DAOManager [main] 9943 Entries added to the database
+2020-09-04 16:40:44,058 INFO c.s.c.d.DAOManager [main] Data sent to database in: 11758.2015 milliseconds.
+2020-09-04 16:40:44,058 INFO c.s.c.Controller [main] Process completed in: 12255.8163 milliseconds.
+2020-09-04 16:42:46,744 INFO c.s.c.d.FileIOManager [main] Number of Unverified Employees: 57
+2020-09-04 16:42:46,746 INFO c.s.c.d.FileIOManager [main] Number of Verified Employees: 9943
+2020-09-04 16:42:46,746 INFO c.s.c.d.FileIOManager [main] CSV process Completed in: 100.8223 milliseconds.
+2020-09-04 16:42:46,782 INFO c.s.c.d.DAOManager [main] 0 Entries added to the database
+2020-09-04 16:42:46,782 INFO c.s.c.d.DAOManager [main] Data sent to database in: 0.5868 milliseconds.
+2020-09-04 16:42:46,782 INFO c.s.c.Controller [main] Process completed in: 601.2942 milliseconds.
+2020-09-04 16:42:46,875 TRACE c.s.c.d.RunnableDAO [Thread-1] Successfully added
+2020-09-04 16:42:57,056 TRACE c.s.c.d.RunnableDAO [Thread-7] Successfully added
+2020-09-04 16:42:57,317 TRACE c.s.c.d.RunnableDAO [Thread-6] Successfully added
+2020-09-04 16:42:57,339 TRACE c.s.c.d.RunnableDAO [Thread-0] Successfully added
+2020-09-04 16:42:58,078 TRACE c.s.c.d.RunnableDAO [Thread-4] Successfully added
+2020-09-04 16:42:58,144 TRACE c.s.c.d.RunnableDAO [Thread-5] Successfully added
+2020-09-04 16:42:58,145 TRACE c.s.c.d.RunnableDAO [Thread-9] Successfully added
+2020-09-04 16:42:58,323 TRACE c.s.c.d.RunnableDAO [Thread-3] Successfully added
+2020-09-04 16:42:58,477 TRACE c.s.c.d.RunnableDAO [Thread-10] Successfully added
+2020-09-04 16:42:58,585 TRACE c.s.c.d.RunnableDAO [Thread-2] Successfully added
+2020-09-04 16:42:58,600 TRACE c.s.c.d.RunnableDAO [Thread-8] Successfully added
+2020-09-04 16:44:01,778 INFO c.s.c.d.FileIOManager [main] Number of Unverified Employees: 57
+2020-09-04 16:44:01,780 INFO c.s.c.d.FileIOManager [main] Number of Verified Employees: 9943
+2020-09-04 16:44:01,780 INFO c.s.c.d.FileIOManager [main] CSV process Completed in: 96.4626 milliseconds.
+2020-09-04 16:44:01,891 TRACE c.s.c.d.RunnableDAO [pool-2-thread-2] Successfully added
+2020-09-04 16:44:11,709 TRACE c.s.c.d.RunnableDAO [pool-2-thread-5] Successfully added
+2020-09-04 16:44:12,171 TRACE c.s.c.d.RunnableDAO [pool-2-thread-9] Successfully added
+2020-09-04 16:44:12,472 TRACE c.s.c.d.RunnableDAO [pool-2-thread-11] Successfully added
+2020-09-04 16:44:12,574 TRACE c.s.c.d.RunnableDAO [pool-2-thread-10] Successfully added
+2020-09-04 16:44:12,680 TRACE c.s.c.d.RunnableDAO [pool-2-thread-4] Successfully added
+2020-09-04 16:44:12,939 TRACE c.s.c.d.RunnableDAO [pool-2-thread-8] Successfully added
+2020-09-04 16:44:13,530 TRACE c.s.c.d.RunnableDAO [pool-2-thread-3] Successfully added
+2020-09-04 16:44:13,531 TRACE c.s.c.d.RunnableDAO [pool-2-thread-7] Successfully added
+2020-09-04 16:44:13,615 TRACE c.s.c.d.RunnableDAO [pool-2-thread-6] Successfully added
+2020-09-04 16:44:13,690 TRACE c.s.c.d.RunnableDAO [pool-2-thread-1] Successfully added
+2020-09-04 16:44:13,699 INFO c.s.c.d.DAOManager [main] 9943 Entries added to the database
+2020-09-04 16:44:13,699 INFO c.s.c.d.DAOManager [main] Data sent to database in: 11884.6904 milliseconds.
+2020-09-04 16:44:13,699 INFO c.s.c.Controller [main] Process completed in: 12421.6395 milliseconds.
+2020-09-04 16:55:35,731 INFO c.s.c.d.FileIOManager [main] Number of Unverified Employees: 57
+2020-09-04 16:55:35,733 INFO c.s.c.d.FileIOManager [main] Number of Verified Employees: 9943
+2020-09-04 16:55:35,733 INFO c.s.c.d.FileIOManager [main] CSV process Completed in: 96.5029 milliseconds.
+2020-09-04 16:55:35,824 TRACE c.s.c.d.RunnableDAO [pool-2-thread-6] Successfully added
+2020-09-04 16:55:46,409 TRACE c.s.c.d.RunnableDAO [pool-2-thread-3] Successfully added
+2020-09-04 16:55:46,748 TRACE c.s.c.d.RunnableDAO [pool-2-thread-11] Successfully added
+2020-09-04 16:55:46,878 TRACE c.s.c.d.RunnableDAO [pool-2-thread-5] Successfully added
+2020-09-04 16:55:46,905 TRACE c.s.c.d.RunnableDAO [pool-2-thread-10] Successfully added
+2020-09-04 16:55:47,030 TRACE c.s.c.d.RunnableDAO [pool-2-thread-4] Successfully added
+2020-09-04 16:55:47,221 TRACE c.s.c.d.RunnableDAO [pool-2-thread-9] Successfully added
+2020-09-04 16:55:47,406 TRACE c.s.c.d.RunnableDAO [pool-2-thread-2] Successfully added
+2020-09-04 16:55:47,412 TRACE c.s.c.d.RunnableDAO [pool-2-thread-1] Successfully added
+2020-09-04 16:55:47,426 TRACE c.s.c.d.RunnableDAO [pool-2-thread-8] Successfully added
+2020-09-04 16:55:47,478 TRACE c.s.c.d.RunnableDAO [pool-2-thread-7] Successfully added
+2020-09-04 16:55:47,486 INFO c.s.c.d.DAOManager [main] 9943 Entries added to the database
+2020-09-04 16:55:47,486 INFO c.s.c.d.DAOManager [main] Data sent to database in: 11706.8739 milliseconds.
+2020-09-04 16:55:47,487 INFO c.s.c.Controller [main] Process completed in: 12229.7624 milliseconds.
+2020-09-04 17:18:35,971 INFO c.s.c.d.FileIOManager [main] Number of Unverified Employees: 57
+2020-09-04 17:18:35,973 INFO c.s.c.d.FileIOManager [main] Number of Verified Employees: 9943
+2020-09-04 17:18:35,973 INFO c.s.c.d.FileIOManager [main] CSV process Completed in: 116.3977 milliseconds.
+2020-09-04 17:18:49,214 TRACE c.s.c.d.RunnableDAO [pool-2-thread-1] Successfully added
+2020-09-04 17:18:49,278 INFO c.s.c.d.DAOManager [main] 9943 Entries added to the database
+2020-09-04 17:18:49,278 INFO c.s.c.d.DAOManager [main] Data sent to database in: 13148.0548 milliseconds.
+2020-09-04 17:18:49,278 INFO c.s.c.Controller [main] Process completed in: 13922.6263 milliseconds.
+2020-09-04 17:19:37,313 INFO c.s.c.d.FileIOManager [main] Number of Unverified Employees: 57
+2020-09-04 17:19:37,315 INFO c.s.c.d.FileIOManager [main] Number of Verified Employees: 9943
+2020-09-04 17:19:37,315 INFO c.s.c.d.FileIOManager [main] CSV process Completed in: 115.952 milliseconds.
+2020-09-04 17:19:37,375 INFO c.s.c.d.DAOManager [main] 6 Entries added to the database
+2020-09-04 17:19:37,375 INFO c.s.c.d.DAOManager [main] Data sent to database in: 0.6227 milliseconds.
+2020-09-04 17:19:37,375 INFO c.s.c.Controller [main] Process completed in: 671.4029 milliseconds.
+2020-09-04 17:19:37,383 TRACE c.s.c.d.RunnableDAO [Thread-6] Successfully added
+2020-09-04 17:19:50,419 TRACE c.s.c.d.RunnableDAO [Thread-10] Successfully added
+2020-09-04 17:19:50,472 TRACE c.s.c.d.RunnableDAO [Thread-5] Successfully added
+2020-09-04 17:19:50,529 TRACE c.s.c.d.RunnableDAO [Thread-7] Successfully added
+2020-09-04 17:19:50,567 TRACE c.s.c.d.RunnableDAO [Thread-2] Successfully added
+2020-09-04 17:19:50,611 TRACE c.s.c.d.RunnableDAO [Thread-9] Successfully added
+2020-09-04 17:19:50,646 TRACE c.s.c.d.RunnableDAO [Thread-1] Successfully added
+2020-09-04 17:19:50,707 TRACE c.s.c.d.RunnableDAO [Thread-4] Successfully added
+2020-09-04 17:19:50,761 TRACE c.s.c.d.RunnableDAO [Thread-3] Successfully added
+2020-09-04 17:19:50,784 TRACE c.s.c.d.RunnableDAO [Thread-8] Successfully added
+2020-09-04 17:19:50,806 TRACE c.s.c.d.RunnableDAO [Thread-0] Successfully added
+2020-09-04 17:21:27,585 INFO c.s.c.d.FileIOManager [main] Number of Unverified Employees: 57
+2020-09-04 17:21:27,587 INFO c.s.c.d.FileIOManager [main] Number of Verified Employees: 9943
+2020-09-04 17:21:27,588 INFO c.s.c.d.FileIOManager [main] CSV process Completed in: 126.9856 milliseconds.
+2020-09-04 17:21:27,640 INFO c.s.c.d.DAOManager [main] 0 Entries added to the database
+2020-09-04 17:21:27,640 INFO c.s.c.d.DAOManager [main] Data sent to database in: 1.1314 milliseconds.
+2020-09-04 17:21:27,640 INFO c.s.c.Controller [main] Process completed in: 723.5523 milliseconds.
+2020-09-04 17:21:27,689 TRACE c.s.c.d.RunnableDAO [Thread-10] Successfully added: 3
+2020-09-04 17:21:39,870 TRACE c.s.c.d.RunnableDAO [Thread-4] Successfully added: 994
+2020-09-04 17:21:40,338 TRACE c.s.c.d.RunnableDAO [Thread-5] Successfully added: 994
+2020-09-04 17:21:40,696 TRACE c.s.c.d.RunnableDAO [Thread-1] Successfully added: 994
+2020-09-04 17:21:40,714 TRACE c.s.c.d.RunnableDAO [Thread-8] Successfully added: 994
+2020-09-04 17:21:40,767 TRACE c.s.c.d.RunnableDAO [Thread-0] Successfully added: 994
+2020-09-04 17:21:40,896 TRACE c.s.c.d.RunnableDAO [Thread-9] Successfully added: 994
+2020-09-04 17:21:40,937 TRACE c.s.c.d.RunnableDAO [Thread-3] Successfully added: 994
+2020-09-04 17:21:40,991 TRACE c.s.c.d.RunnableDAO [Thread-6] Successfully added: 994
+2020-09-04 17:21:41,018 TRACE c.s.c.d.RunnableDAO [Thread-7] Successfully added: 994
+2020-09-04 17:21:41,066 TRACE c.s.c.d.RunnableDAO [Thread-2] Successfully added: 994
+2020-09-04 17:22:28,996 INFO c.s.c.d.FileIOManager [main] Number of Unverified Employees: 57
+2020-09-04 17:22:28,999 INFO c.s.c.d.FileIOManager [main] Number of Verified Employees: 9943
+2020-09-04 17:22:28,999 INFO c.s.c.d.FileIOManager [main] CSV process Completed in: 206.4461 milliseconds.
+2020-09-04 17:22:42,655 TRACE c.s.c.d.RunnableDAO [pool-2-thread-1] Successfully added: 9943
+2020-09-04 17:22:42,684 INFO c.s.c.d.DAOManager [main] 9943 Entries added to the database
+2020-09-04 17:22:42,684 INFO c.s.c.d.DAOManager [main] Data sent to database in: 13604.7736 milliseconds.
+2020-09-04 17:22:42,685 INFO c.s.c.Controller [main] Process completed in: 14482.5001 milliseconds.
+2020-09-04 17:24:23,582 INFO c.s.c.d.FileIOManager [main] Number of Unverified Employees: 57
+2020-09-04 17:24:23,584 INFO c.s.c.d.FileIOManager [main] Number of Verified Employees: 9943
+2020-09-04 17:24:23,584 INFO c.s.c.d.FileIOManager [main] CSV process Completed in: 123.7441 milliseconds.
+2020-09-04 17:24:23,616 TRACE c.s.c.d.RunnableDAO [pool-2-thread-1] starting to add
+2020-09-04 17:24:37,120 TRACE c.s.c.d.RunnableDAO [pool-2-thread-1] Successfully added: 9943
+2020-09-04 17:24:37,131 INFO c.s.c.d.DAOManager [main] 9943 Entries added to the database
+2020-09-04 17:24:37,131 INFO c.s.c.d.DAOManager [main] Data sent to database in: 13510.8611 milliseconds.
+2020-09-04 17:24:37,131 INFO c.s.c.Controller [main] Process completed in: 14192.0049 milliseconds.
+2020-09-04 17:24:55,565 INFO c.s.c.d.FileIOManager [main] Number of Unverified Employees: 57
+2020-09-04 17:24:55,567 INFO c.s.c.d.FileIOManager [main] Number of Verified Employees: 9943
+2020-09-04 17:24:55,567 INFO c.s.c.d.FileIOManager [main] CSV process Completed in: 112.0401 milliseconds.
+2020-09-04 17:24:55,594 TRACE c.s.c.d.RunnableDAO [pool-2-thread-2] starting to add
+2020-09-04 17:24:55,595 TRACE c.s.c.d.RunnableDAO [pool-2-thread-9] starting to add
+2020-09-04 17:24:55,595 TRACE c.s.c.d.RunnableDAO [pool-2-thread-8] starting to add
+2020-09-04 17:24:55,596 TRACE c.s.c.d.RunnableDAO [pool-2-thread-7] starting to add
+2020-09-04 17:24:55,597 TRACE c.s.c.d.RunnableDAO [pool-2-thread-3] starting to add
+2020-09-04 17:24:55,597 TRACE c.s.c.d.RunnableDAO [pool-2-thread-5] starting to add
+2020-09-04 17:24:55,598 TRACE c.s.c.d.RunnableDAO [pool-2-thread-4] starting to add
+2020-09-04 17:24:55,598 TRACE c.s.c.d.RunnableDAO [pool-2-thread-1] starting to add
+2020-09-04 17:24:55,599 TRACE c.s.c.d.RunnableDAO [pool-2-thread-6] starting to add
+2020-09-04 17:24:55,599 TRACE c.s.c.d.RunnableDAO [pool-2-thread-10] starting to add
+2020-09-04 17:24:55,600 TRACE c.s.c.d.RunnableDAO [pool-2-thread-11] starting to add
+2020-09-04 17:24:55,650 TRACE c.s.c.d.RunnableDAO [pool-2-thread-10] Successfully added: 3
+2020-09-04 17:25:08,149 TRACE c.s.c.d.RunnableDAO [pool-2-thread-4] Successfully added: 994
+2020-09-04 17:25:08,263 TRACE c.s.c.d.RunnableDAO [pool-2-thread-5] Successfully added: 994
+2020-09-04 17:25:08,345 TRACE c.s.c.d.RunnableDAO [pool-2-thread-11] Successfully added: 994
+2020-09-04 17:25:08,405 TRACE c.s.c.d.RunnableDAO [pool-2-thread-9] Successfully added: 994
+2020-09-04 17:25:08,458 TRACE c.s.c.d.RunnableDAO [pool-2-thread-7] Successfully added: 994
+2020-09-04 17:25:08,466 TRACE c.s.c.d.RunnableDAO [pool-2-thread-8] Successfully added: 994
+2020-09-04 17:25:08,493 TRACE c.s.c.d.RunnableDAO [pool-2-thread-3] Successfully added: 994
+2020-09-04 17:25:08,552 TRACE c.s.c.d.RunnableDAO [pool-2-thread-6] Successfully added: 994
+2020-09-04 17:25:08,594 TRACE c.s.c.d.RunnableDAO [pool-2-thread-2] Successfully added: 994
+2020-09-04 17:25:08,603 TRACE c.s.c.d.RunnableDAO [pool-2-thread-1] Successfully added: 994
+2020-09-04 17:25:08,615 INFO c.s.c.d.DAOManager [main] 9943 Entries added to the database
+2020-09-04 17:25:08,615 INFO c.s.c.d.DAOManager [main] Data sent to database in: 13012.5942 milliseconds.
+2020-09-04 17:25:08,615 INFO c.s.c.Controller [main] Process completed in: 16265.5329 milliseconds.
+2020-09-04 17:26:57,328 INFO c.s.c.d.FileIOManager [main] Number of Unverified Employees: 57
+2020-09-04 17:26:57,330 INFO c.s.c.d.FileIOManager [main] Number of Verified Employees: 9943
+2020-09-04 17:26:57,330 INFO c.s.c.d.FileIOManager [main] CSV process Completed in: 118.3984 milliseconds.
+2020-09-04 17:26:57,353 TRACE c.s.c.d.RunnableDAO [pool-2-thread-1] starting to add
+2020-09-04 17:26:57,354 TRACE c.s.c.d.RunnableDAO [pool-2-thread-5] starting to add
+2020-09-04 17:26:57,354 TRACE c.s.c.d.RunnableDAO [pool-2-thread-7] starting to add
+2020-09-04 17:26:57,354 TRACE c.s.c.d.RunnableDAO [pool-2-thread-11] starting to add
+2020-09-04 17:26:57,354 TRACE c.s.c.d.RunnableDAO [pool-2-thread-4] starting to add
+2020-09-04 17:26:57,355 TRACE c.s.c.d.RunnableDAO [pool-2-thread-2] starting to add
+2020-09-04 17:26:57,355 TRACE c.s.c.d.RunnableDAO [pool-2-thread-3] starting to add
+2020-09-04 17:26:57,355 TRACE c.s.c.d.RunnableDAO [pool-2-thread-10] starting to add
+2020-09-04 17:26:57,355 TRACE c.s.c.d.RunnableDAO [pool-2-thread-9] starting to add
+2020-09-04 17:26:57,356 TRACE c.s.c.d.RunnableDAO [pool-2-thread-8] starting to add
+2020-09-04 17:26:57,356 TRACE c.s.c.d.RunnableDAO [pool-2-thread-6] starting to add
+2020-09-04 17:26:57,501 TRACE c.s.c.d.RunnableDAO [pool-2-thread-6] Successfully added: 3
+2020-09-04 17:27:00,489 TRACE c.s.c.d.RunnableDAO [pool-2-thread-9] Successfully added: 994
+2020-09-04 17:27:00,491 TRACE c.s.c.d.RunnableDAO [pool-2-thread-11] Successfully added: 994
+2020-09-04 17:27:00,496 TRACE c.s.c.d.RunnableDAO [pool-2-thread-8] Successfully added: 994
+2020-09-04 17:27:00,502 TRACE c.s.c.d.RunnableDAO [pool-2-thread-7] Successfully added: 994
+2020-09-04 17:27:00,504 TRACE c.s.c.d.RunnableDAO [pool-2-thread-2] Successfully added: 994
+2020-09-04 17:27:00,505 TRACE c.s.c.d.RunnableDAO [pool-2-thread-5] Successfully added: 994
+2020-09-04 17:27:00,510 TRACE c.s.c.d.RunnableDAO [pool-2-thread-1] Successfully added: 994
+2020-09-04 17:27:00,511 TRACE c.s.c.d.RunnableDAO [pool-2-thread-10] Successfully added: 994
+2020-09-04 17:27:00,514 TRACE c.s.c.d.RunnableDAO [pool-2-thread-4] Successfully added: 994
+2020-09-04 17:27:00,519 TRACE c.s.c.d.RunnableDAO [pool-2-thread-3] Successfully added: 994
+2020-09-04 17:27:00,529 INFO c.s.c.d.DAOManager [main] 9943 Entries added to the database
+2020-09-04 17:27:00,529 INFO c.s.c.d.DAOManager [main] Data sent to database in: 3166.8729 milliseconds.
+2020-09-04 17:27:00,530 INFO c.s.c.Controller [main] Process completed in: 3833.6984 milliseconds.
+2020-09-04 17:38:07,829 INFO c.s.c.d.FileIOManager [main] Number of Unverified Employees: 57
+2020-09-04 17:38:07,832 INFO c.s.c.d.FileIOManager [main] Number of Verified Employees: 9943
+2020-09-04 17:38:07,832 INFO c.s.c.d.FileIOManager [main] CSV process Completed in: 136.616899 milliseconds.
+2020-09-04 17:38:07,855 TRACE c.s.c.d.RunnableDAO [pool-2-thread-1] starting to add
+2020-09-04 17:38:07,856 TRACE c.s.c.d.RunnableDAO [pool-2-thread-11] starting to add
+2020-09-04 17:38:07,856 TRACE c.s.c.d.RunnableDAO [pool-2-thread-10] starting to add
+2020-09-04 17:38:07,856 TRACE c.s.c.d.RunnableDAO [pool-2-thread-9] starting to add
+2020-09-04 17:38:07,857 TRACE c.s.c.d.RunnableDAO [pool-2-thread-8] starting to add
+2020-09-04 17:38:07,857 TRACE c.s.c.d.RunnableDAO [pool-2-thread-6] starting to add
+2020-09-04 17:38:07,858 TRACE c.s.c.d.RunnableDAO [pool-2-thread-7] starting to add
+2020-09-04 17:38:07,859 TRACE c.s.c.d.RunnableDAO [pool-2-thread-3] starting to add
+2020-09-04 17:38:07,868 TRACE c.s.c.d.RunnableDAO [pool-2-thread-5] starting to add
+2020-09-04 17:38:07,895 TRACE c.s.c.d.RunnableDAO [pool-2-thread-2] starting to add
+2020-09-04 17:38:07,896 TRACE c.s.c.d.RunnableDAO [pool-2-thread-4] starting to add
+2020-09-04 17:38:08,026 TRACE c.s.c.d.RunnableDAO [pool-2-thread-4] Successfully added: 3
+2020-09-04 17:38:10,843 TRACE c.s.c.d.RunnableDAO [pool-2-thread-9] Successfully added: 994
+2020-09-04 17:38:10,849 TRACE c.s.c.d.RunnableDAO [pool-2-thread-1] Successfully added: 994
+2020-09-04 17:38:10,852 TRACE c.s.c.d.RunnableDAO [pool-2-thread-6] Successfully added: 994
+2020-09-04 17:38:10,858 TRACE c.s.c.d.RunnableDAO [pool-2-thread-3] Successfully added: 994
+2020-09-04 17:38:10,864 TRACE c.s.c.d.RunnableDAO [pool-2-thread-11] Successfully added: 994
+2020-09-04 17:38:10,866 TRACE c.s.c.d.RunnableDAO [pool-2-thread-10] Successfully added: 994
+2020-09-04 17:38:10,868 TRACE c.s.c.d.RunnableDAO [pool-2-thread-5] Successfully added: 994
+2020-09-04 17:38:10,870 TRACE c.s.c.d.RunnableDAO [pool-2-thread-7] Successfully added: 994
+2020-09-04 17:38:10,878 TRACE c.s.c.d.RunnableDAO [pool-2-thread-8] Successfully added: 994
+2020-09-04 17:38:10,899 TRACE c.s.c.d.RunnableDAO [pool-2-thread-2] Successfully added: 994
+2020-09-04 17:38:10,914 INFO c.s.c.d.DAOManager [main] 9943 Entries added to the database
+2020-09-04 17:38:10,914 INFO c.s.c.d.DAOManager [main] Data sent to database in: 3045.739 milliseconds.
+2020-09-04 17:38:10,914 INFO c.s.c.Controller [main] Process completed in: 3718.5165 milliseconds.
+2020-09-04 17:39:49,285 INFO c.s.c.d.FileIOManager [main] Number of Unverified Employees: 58
+2020-09-04 17:39:49,287 INFO c.s.c.d.FileIOManager [main] Number of Verified Employees: 9942
+2020-09-04 17:39:49,287 INFO c.s.c.d.FileIOManager [main] CSV process Completed in: 138.089999 milliseconds.
+2020-09-04 17:39:49,326 TRACE c.s.c.d.RunnableDAO [pool-2-thread-1] starting to add
+2020-09-04 17:39:49,326 TRACE c.s.c.d.RunnableDAO [pool-2-thread-10] starting to add
+2020-09-04 17:39:49,327 TRACE c.s.c.d.RunnableDAO [pool-2-thread-9] starting to add
+2020-09-04 17:39:49,327 TRACE c.s.c.d.RunnableDAO [pool-2-thread-8] starting to add
+2020-09-04 17:39:49,328 TRACE c.s.c.d.RunnableDAO [pool-2-thread-7] starting to add
+2020-09-04 17:39:49,330 TRACE c.s.c.d.RunnableDAO [pool-2-thread-6] starting to add
+2020-09-04 17:39:49,331 TRACE c.s.c.d.RunnableDAO [pool-2-thread-3] starting to add
+2020-09-04 17:39:49,332 TRACE c.s.c.d.RunnableDAO [pool-2-thread-5] starting to add
+2020-09-04 17:39:49,333 TRACE c.s.c.d.RunnableDAO [pool-2-thread-2] starting to add
+2020-09-04 17:39:49,334 TRACE c.s.c.d.RunnableDAO [pool-2-thread-4] starting to add
+2020-09-04 17:39:49,334 TRACE c.s.c.d.RunnableDAO [pool-2-thread-11] starting to add
+2020-09-04 17:39:49,477 TRACE c.s.c.d.RunnableDAO [pool-2-thread-11] Successfully added: 2
+2020-09-04 17:39:52,321 TRACE c.s.c.d.RunnableDAO [pool-2-thread-6] Successfully added: 994
+2020-09-04 17:39:52,328 TRACE c.s.c.d.RunnableDAO [pool-2-thread-2] Successfully added: 994
+2020-09-04 17:39:52,344 TRACE c.s.c.d.RunnableDAO [pool-2-thread-10] Successfully added: 994
+2020-09-04 17:39:52,345 TRACE c.s.c.d.RunnableDAO [pool-2-thread-1] Successfully added: 994
+2020-09-04 17:39:52,350 TRACE c.s.c.d.RunnableDAO [pool-2-thread-8] Successfully added: 994
+2020-09-04 17:39:52,351 TRACE c.s.c.d.RunnableDAO [pool-2-thread-9] Successfully added: 994
+2020-09-04 17:39:52,352 TRACE c.s.c.d.RunnableDAO [pool-2-thread-5] Successfully added: 994
+2020-09-04 17:39:52,357 TRACE c.s.c.d.RunnableDAO [pool-2-thread-3] Successfully added: 994
+2020-09-04 17:39:52,361 TRACE c.s.c.d.RunnableDAO [pool-2-thread-4] Successfully added: 994
+2020-09-04 17:39:52,362 TRACE c.s.c.d.RunnableDAO [pool-2-thread-7] Successfully added: 994
+2020-09-04 17:39:52,371 INFO c.s.c.d.DAOManager [main] 9942 Entries added to the database
+2020-09-04 17:39:52,371 INFO c.s.c.d.DAOManager [main] Data sent to database in: 3039.365301 milliseconds.
+2020-09-04 17:39:52,371 INFO c.s.c.Controller [main] Process completed in: 3768.318 milliseconds.

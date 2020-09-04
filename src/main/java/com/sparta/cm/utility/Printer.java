@@ -14,6 +14,7 @@ public class Printer {
         System.out.println(e.getDob());
         System.out.println(e.getDateOfJoining());
         System.out.println(e.getSalary());
+        System.out.println();
 
     }
 }
